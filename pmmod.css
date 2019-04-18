@@ -12,9 +12,10 @@
 
 /* This sets the overall frame for the site */
 body {
-  margin:12px 50px; background-color:#f7f7f7; color: black;
+  background-color:#f7f7f7; color: black;
   font-family:Arial,Helvetica,sans-serif; font-size:18pt;
   max-width: 1250px; margin: auto;
+  margin-top: 6px;
 }
 
 /* These control the fixed-width text elements of the page */
@@ -122,7 +123,7 @@ font-size: 93%}
     width: 200px;
 }
 .flex-item{
-    padding-top: 11px;
+    padding-top: 18px;
     flex-grow: 1;
     text-align: right;
 }
