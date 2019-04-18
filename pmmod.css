@@ -72,7 +72,7 @@ max-width: 35%; }
   font-size:80%;
   font-family: sans;
   border: 3px black solid;
-  border-radius: 9px;
+  border-radius: 8px;
 }
 #wikicmds { 
   float:right; white-space:nowrap; 
